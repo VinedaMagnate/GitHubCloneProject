@@ -1,1 +1,10 @@
+<<<<<<< HEAD
  Hello, this is a message from my cloned repository!
+<<<<<<< HEAD
+(your local content)
+=======
+(remote GitHub content)
+>>>>>>> de13faa...
+=======
+Hello, this is a message from my cloned repository!
+
